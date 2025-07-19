@@ -38,4 +38,6 @@ Je suis toujours chaud pour discuter de dev, d’idées de projets ou même just
 
 ---
 
+<a href="https://www.buymeacoffee.com/teroryx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🥤&slug=teroryx&button_colour=BD5FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 _À bientôt sur le web 👨‍💻_
